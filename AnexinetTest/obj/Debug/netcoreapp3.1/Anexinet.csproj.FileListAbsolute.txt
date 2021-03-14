@@ -1,0 +1,12 @@
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.exe
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.deps.json
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.runtimeconfig.json
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.runtimeconfig.dev.json
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.dll
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\bin\Debug\netcoreapp3.1\Anexinet.pdb
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.AssemblyInfoInputs.cache
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.AssemblyInfo.cs
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.csproj.CoreCompileInputs.cache
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.dll
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.pdb
+C:\Codebase\Anexinet\AnexinetTest\AnexinetTest\obj\Debug\netcoreapp3.1\Anexinet.genruntimeconfig.cache
